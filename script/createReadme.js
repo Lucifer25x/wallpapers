@@ -1,3 +1,8 @@
+/* 
+Script to automatically generate README.md.
+If your wallpaper folder is at $HOME/Pictures/Wallpapers it might work for you too.
+*/
+
 const fs = require('fs');
 const { homedir } = require('os');
 const path = require('path');
