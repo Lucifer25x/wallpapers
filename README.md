@@ -2,6 +2,7 @@
 <details><summary>Clearnight</summary><img alt="Clearnight" src="Clearnight.jpg"/></details>
 <details><summary>Cloudsnight</summary><img alt="Cloudsnight" src="Cloudsnight.jpg"/></details>
 <details><summary>anime_sun</summary><img alt="anime_sun" src="anime_sun.png"/></details>
+<details><summary>anime_sunrise</summary><img alt="anime_sunrise" src="anime_sunrise.png"/></details>
 <details><summary>arch-black</summary><img alt="arch-black" src="arch-black.png"/></details>
 <details><summary>evening_sky</summary><img alt="evening_sky" src="evening_sky.png"/></details>
 <details><summary>last_of_us_minimalist</summary><img alt="last_of_us_minimalist" src="last_of_us_minimalist.jpg"/></details>
