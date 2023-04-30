@@ -1,5 +1,4 @@
 # Wallpapers
-<details><summary>.git</summary><img alt=".git" src=".git"/></details>
 <details><summary>Clearnight</summary><img alt="Clearnight" src="Clearnight.jpg"/></details>
 <details><summary>Cloudsnight</summary><img alt="Cloudsnight" src="Cloudsnight.jpg"/></details>
 <details><summary>Nord_Buildings</summary><img alt="Nord_Buildings" src="Nord_Buildings.png"/></details>
