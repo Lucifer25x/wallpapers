@@ -2,7 +2,6 @@
 <details><summary>Clearnight</summary><img alt="Clearnight" src="Clearnight.jpg"/></details>
 <details><summary>Cloudsnight</summary><img alt="Cloudsnight" src="Cloudsnight.jpg"/></details>
 <details><summary>Nord_Buildings</summary><img alt="Nord_Buildings" src="Nord_Buildings.png"/></details>
-<details><summary>README</summary><img alt="README" src="README.md"/></details>
 <details><summary>anime_sun</summary><img alt="anime_sun" src="anime_sun.png"/></details>
 <details><summary>anime_sunrise</summary><img alt="anime_sunrise" src="anime_sunrise.png"/></details>
 <details><summary>arch-black</summary><img alt="arch-black" src="arch-black.png"/></details>
@@ -12,7 +11,6 @@
 <details><summary>pastel_clouds</summary><img alt="pastel_clouds" src="pastel_clouds.jpg"/></details>
 <details><summary>red_nebula</summary><img alt="red_nebula" src="red_nebula.jpg"/></details>
 <details><summary>satellite</summary><img alt="satellite" src="satellite.png"/></details>
-<details><summary>script</summary><img alt="script" src="script"/></details>
 <details><summary>space</summary><img alt="space" src="space.jpg"/></details>
 <details><summary>space2</summary><img alt="space2" src="space2.jpg"/></details>
 <details><summary>space3</summary><img alt="space3" src="space3.jpg"/></details>
