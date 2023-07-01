@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+
+import os
+
+home_directory = os.path.expanduser('~')
+files = os.listdir(home_directory + '/Pictures/wallpapers/img')
+code = '# Wallpapers'
+for f in files:
+  filename = os.path.basename(f)
+  code += '\n<details><summary>{}</summary><img alt="{}" src="{}"/></details>'.format(filename, filename, './img/' + f)
+
+with open(home_directory + '/Pictures/wallpapers/README.md', 'w') as f:
+  f.write(code)
+
+print('README file succesfully created!')
