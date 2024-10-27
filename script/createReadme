@@ -7,7 +7,7 @@ files = os.listdir(home_directory + '/Pictures/wallpapers/img')
 code = '# Wallpapers'
 for f in files:
   filename = os.path.basename(f)
-  code += '\n<details><summary>{}</summary><img alt="{}" src="{}"/></details>'.format(filename, filename, './img/' + f)
+  code += '\n<details><summary>{}</summary><img alt="{}" src="{}"/></details>'.format(filename.split('.')[0], filename, './img/' + f)
 
 with open(home_directory + '/Pictures/wallpapers/README.md', 'w') as f:
   f.write(code)
